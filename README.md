@@ -9,7 +9,6 @@ Create an issue here if you have a problem to resolve.
 
 1. Create the region super-regional prefixes are: 
 
-| --- | -------------------- |
 | pre | Super Region .       |
 | --- | -------------------- |
 | ame | Africa & Middle East |
@@ -22,7 +21,6 @@ Create an issue here if you have a problem to resolve.
 | na .| North America        |
 | sp .| South Pacific .      |
 | wf .| World Finals         |
-| --- | -------------------- |
 
 2. Create a team with the same name.
 3. Invite cheif judge/RCD as member
