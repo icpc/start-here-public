@@ -6,6 +6,23 @@ Create an issue here if you have a problem to resolve.
 
 ## Q. How do I create a resource for a new region
 ## A. 
-1. Create the region super-regional prefixes are: ame, ae, aw, ap, e, na, ne, e, wf
+
+1. Create the region super-regional prefixes are: 
+
+| --- | -------------------- |
+| pre | Super Region .       |
+| --- | -------------------- |
+| ame | Africa & Middle East |
+| ae  | Asia East            |
+| ap .| Asia Pacific         |
+| aw .| Asia West            |
+| e . | Europe               |
+| ne  | Northern Eurasia .   |
+| la  | Latin America .      |
+| na .| North America        |
+| sp .| South Pacific .      |
+| wf .| World Finals         |
+| --- | -------------------- |
+
 2. Create a team with the same name.
 3. Invite cheif judge/RCD as member
