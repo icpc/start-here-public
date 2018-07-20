@@ -1,6 +1,6 @@
 # start-here
 
-Create an issue here if you have a problem to resolve.
+Create an issue here if you have a problem to resolve.  Warning: start-here is a PUBLIC repository (so you can see it to get started).  DO NOT POST ANY ISSUE INFORMATION THAT THE WORLD SHOULD NOT SEE!
 
 # FAQ
 
@@ -27,4 +27,5 @@ Create an issue here if you have a problem to resolve.
 
 # Warning: Private Repo pages are *public*
 
-Do not use github pages features to discuss a problem: github pages are public even for private repositories.  You can edit a markdown file (README.md) for that...
+Do not use github pages features to discuss a problem: github pages are public even for private repositories.  You can edit a markdown file (README.md) or use the wiki features for that.
+
