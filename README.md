@@ -24,3 +24,7 @@ Create an issue here if you have a problem to resolve.
 
 2. Create a team with the same name.
 3. Invite cheif judge/RCD as member
+
+# Warning: Private Repo pages are *public*
+
+Don't use wiki or pages features to discuss a problem.  You can edit a markdown file (README.md) for that...
